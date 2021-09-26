@@ -2,3 +2,8 @@
 # *
 
 # Except for the themes directories:
+# !fonts/
+
+index.html
+script.js
+data.js
